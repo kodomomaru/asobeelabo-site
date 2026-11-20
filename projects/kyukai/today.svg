@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Illustration of Kyukai's Today screen on a phone: this week's events colour-coded by type, a live competition and a practice summary">
+  <rect width="800" height="450" rx="24" fill="#d9482b" opacity="0.12"/>
+  <!-- phone -->
+  <rect x="290" y="18" width="220" height="414" rx="30" fill="#2b2522"/>
+  <rect x="300" y="28" width="200" height="394" rx="22" fill="#f5efe3"/>
+  <rect x="300" y="28" width="200" height="54" rx="22" fill="#d9482b"/>
+  <rect x="300" y="60" width="200" height="22" fill="#d9482b"/>
+  <text x="316" y="66" font-family="'Shippori Mincho', Georgia, serif" font-size="20" font-weight="700" fill="#fff">Today</text>
+  <circle cx="478" cy="58" r="9" fill="#fff" opacity=".9"/><circle cx="484" cy="52" r="4" fill="#f2c94c"/>
+  <!-- live strip -->
+  <rect x="312" y="92" width="176" height="30" rx="8" fill="#fff" stroke="#d9482b" stroke-width="1.5"/>
+  <circle cx="326" cy="107" r="5" fill="#d9482b"/>
+  <text x="338" y="112" font-family="sans-serif" font-size="12" fill="#2b2522">Live now · Autumn Taikai</text>
+  <!-- this week -->
+  <text x="314" y="142" font-family="sans-serif" font-size="11" fill="#8a7f70">THIS WEEK</text>
+  <g font-family="sans-serif" font-size="12" fill="#2b2522">
+    <rect x="312" y="150" width="176" height="44" rx="8" fill="#fff"/><rect x="312" y="150" width="6" height="44" rx="3" fill="#3b4a8a"/>
+    <text x="326" y="168">Club team taikai</text><text x="326" y="185" font-size="10" fill="#3b4a8a">Thu · You're Going</text>
+    <rect x="312" y="200" width="176" height="44" rx="8" fill="#fff"/><rect x="312" y="200" width="6" height="44" rx="3" fill="#d9482b"/>
+    <text x="326" y="218">Monthly individual</text><text x="326" y="235" font-size="10" fill="#d9482b">Fri · Registered</text>
+    <rect x="312" y="250" width="176" height="44" rx="8" fill="#fff"/><rect x="312" y="250" width="6" height="44" rx="3" fill="#c9a227"/>
+    <text x="326" y="268">Shinsa seminar</text><text x="326" y="285" font-size="10" fill="#a8861a">Sat · On Watchlist</text>
+  </g>
+  <!-- training summary -->
+  <rect x="312" y="304" width="176" height="62" rx="10" fill="#efe6d4"/>
+  <text x="324" y="324" font-family="sans-serif" font-size="11" fill="#8a7f70">Your training</text>
+  <text x="324" y="352" font-family="'Shippori Mincho', Georgia, serif" font-size="24" font-weight="700" fill="#2b2522">68%</text>
+  <polyline points="394,352 410,346 426,349 442,338 458,341 474,330" fill="none" stroke="#d9482b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- footer -->
+  <rect x="300" y="378" width="200" height="44" fill="#efe6d4"/>
+  <rect x="300" y="400" width="200" height="22" rx="22" fill="#efe6d4"/>
+  <g font-family="sans-serif" font-size="9" fill="#8a7f70" text-anchor="middle">
+    <text x="330" y="404" fill="#d9482b">Today</text><text x="378" y="404">Calendar</text><text x="426" y="404">Watchlist</text><text x="472" y="404">Practice</text>
+  </g>
+  <!-- calendar card beside -->
+  <g transform="translate(560 90)">
+    <rect width="200" height="200" rx="16" fill="#fff"/>
+    <text x="16" y="30" font-family="'Shippori Mincho', Georgia, serif" font-size="16" font-weight="700" fill="#2b2522">‹ November ›</text>
+    <g font-family="sans-serif" font-size="10" fill="#8a7f70" text-anchor="middle">
+      <text x="24" y="54">S</text><text x="50" y="54">M</text><text x="76" y="54">T</text><text x="102" y="54">W</text><text x="128" y="54">T</text><text x="154" y="54">F</text><text x="180" y="54">S</text>
+    </g>
+    <g fill="#efe6d4">
+      <rect x="14" y="64" width="20" height="20" rx="5"/><rect x="40" y="64" width="20" height="20" rx="5"/><rect x="66" y="64" width="20" height="20" rx="5"/><rect x="92" y="64" width="20" height="20" rx="5"/><rect x="118" y="64" width="20" height="20" rx="5"/><rect x="144" y="64" width="20" height="20" rx="5"/><rect x="170" y="64" width="20" height="20" rx="5"/>
+      <rect x="14" y="92" width="20" height="20" rx="5"/><rect x="40" y="92" width="20" height="20" rx="5"/><rect x="66" y="92" width="20" height="20" rx="5"/><rect x="92" y="92" width="20" height="20" rx="5"/><rect x="118" y="92" width="20" height="20" rx="5"/><rect x="144" y="92" width="20" height="20" rx="5"/><rect x="170" y="92" width="20" height="20" rx="5"/>
+      <rect x="14" y="120" width="20" height="20" rx="5"/><rect x="40" y="120" width="20" height="20" rx="5"/><rect x="66" y="120" width="20" height="20" rx="5"/><rect x="92" y="120" width="20" height="20" rx="5"/><rect x="118" y="120" width="20" height="20" rx="5"/><rect x="144" y="120" width="20" height="20" rx="5"/><rect x="170" y="120" width="20" height="20" rx="5"/>
+      <rect x="14" y="148" width="20" height="20" rx="5"/><rect x="40" y="148" width="20" height="20" rx="5"/><rect x="66" y="148" width="20" height="20" rx="5"/><rect x="92" y="148" width="20" height="20" rx="5"/><rect x="118" y="148" width="20" height="20" rx="5"/><rect x="144" y="148" width="20" height="20" rx="5"/><rect x="170" y="148" width="20" height="20" rx="5"/>
+    </g>
+    <rect x="92" y="92" width="20" height="20" rx="5" fill="none" stroke="#d9482b" stroke-width="2"/>
+    <circle cx="128" cy="108" r="3" fill="#3b4a8a"/><circle cx="154" cy="108" r="3" fill="#d9482b"/><circle cx="180" cy="108" r="3" fill="#c9a227"/>
+    <circle cx="50" cy="136" r="3" fill="#d9482b"/><circle cx="102" cy="164" r="3" fill="#3b4a8a"/><circle cx="154" cy="164" r="3" fill="#c9a227"/>
+  </g>
+  <g transform="translate(40 120)" font-family="sans-serif" font-size="13" fill="#2b2522">
+    <text x="0" y="0" font-family="'Shippori Mincho', Georgia, serif" font-size="22" font-weight="700">Kyukai</text>
+    <text x="0" y="30" fill="#8a7f70">The Gathering of the Bows</text>
+    <rect x="0" y="56" width="14" height="14" rx="3" fill="#3b4a8a"/><text x="22" y="68">Team</text>
+    <rect x="0" y="82" width="14" height="14" rx="3" fill="#d9482b"/><text x="22" y="94">Individual</text>
+    <rect x="0" y="108" width="14" height="14" rx="3" fill="#c9a227"/><text x="22" y="120">Informational</text>
+  </g>
+</svg>

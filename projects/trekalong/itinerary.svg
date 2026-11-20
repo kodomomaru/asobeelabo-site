@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Illustration of Trek Along's itinerary: three day columns with weather badges, plans with times, a booked train slotted in, and a card being dragged to a new place">
+  <rect width="800" height="450" rx="24" fill="#1fa2b8" opacity="0.12"/>
+  <g font-family="sans-serif">
+    <!-- day 1 -->
+    <rect x="40" y="40" width="226" height="370" rx="18" fill="#fff"/>
+    <text x="60" y="76" font-size="18" font-weight="700" fill="#24414a">Day 1 · Mon</text>
+    <circle cx="236" cy="70" r="12" fill="#ffc94d"/>
+    <text x="60" y="98" font-size="12" fill="#6a7f86">Kyoto · 21°</text>
+    <rect x="56" y="114" width="194" height="58" rx="12" fill="#e6f6f8"/><rect x="56" y="114" width="6" height="58" rx="3" fill="#1fa2b8"/>
+    <text x="72" y="138" font-size="14" fill="#24414a">✈ Land at KIX</text><text x="72" y="158" font-size="12" fill="#6a7f86">09:40 · booking</text>
+    <rect x="56" y="182" width="194" height="58" rx="12" fill="#f4f6f8"/>
+    <text x="72" y="206" font-size="14" fill="#24414a">Check in, ryokan</text><text x="72" y="226" font-size="12" fill="#6a7f86">15:00 · stay</text>
+    <rect x="56" y="250" width="194" height="58" rx="12" fill="#f4f6f8"/>
+    <text x="72" y="274" font-size="14" fill="#24414a">Gion at dusk</text><text x="72" y="294" font-size="12" fill="#6a7f86">📍 place · note</text>
+    <!-- day 2 -->
+    <rect x="287" y="40" width="226" height="370" rx="18" fill="#fff"/>
+    <text x="307" y="76" font-size="18" font-weight="700" fill="#24414a">Day 2 · Tue</text>
+    <circle cx="478" cy="72" r="10" fill="#ffc94d"/><ellipse cx="488" cy="76" rx="14" ry="8" fill="#cfd8dc"/>
+    <text x="307" y="98" font-size="12" fill="#6a7f86">Kyoto · 18°</text>
+    <rect x="303" y="114" width="194" height="58" rx="12" fill="#f4f6f8"/>
+    <text x="319" y="138" font-size="14" fill="#24414a">Fushimi Inari</text><text x="319" y="158" font-size="12" fill="#6a7f86">07:30 · early start</text>
+    <rect x="303" y="182" width="194" height="58" rx="12" fill="none" stroke="#1fa2b8" stroke-width="2" stroke-dasharray="7 6"/>
+    <!-- day 3 -->
+    <rect x="534" y="40" width="226" height="370" rx="18" fill="#fff"/>
+    <text x="554" y="76" font-size="18" font-weight="700" fill="#24414a">Day 3 · Wed</text>
+    <ellipse cx="724" cy="72" rx="16" ry="9" fill="#90a4ae"/><g stroke="#64b5f6" stroke-width="3"><path d="M716 86 l-3 8"/><path d="M728 86 l-3 8"/></g>
+    <rect x="550" y="88" width="148" height="22" rx="11" fill="#1fa2b8"/><text x="562" y="104" font-size="12" fill="#fff">Arriving in Osaka</text>
+    <rect x="550" y="122" width="194" height="58" rx="12" fill="#e6f6f8"/><rect x="550" y="122" width="6" height="58" rx="3" fill="#1fa2b8"/>
+    <text x="566" y="146" font-size="14" fill="#24414a">🚆 Train to Osaka</text><text x="566" y="166" font-size="12" fill="#6a7f86">10:12 · booking</text>
+    <rect x="550" y="190" width="194" height="58" rx="12" fill="#f4f6f8"/>
+    <text x="566" y="214" font-size="14" fill="#24414a">Dotonbori food walk</text><text x="566" y="234" font-size="12" fill="#6a7f86">19:00</text>
+  </g>
+  <!-- dragged card -->
+  <g transform="translate(330 214) rotate(-6)">
+    <rect x="0" y="0" width="194" height="58" rx="12" fill="#fff" stroke="#1fa2b8" stroke-width="2"/>
+    <text x="16" y="24" font-family="sans-serif" font-size="14" fill="#24414a">Philosopher’s Path</text><text x="16" y="44" font-family="sans-serif" font-size="12" fill="#6a7f86">11:00</text>
+  </g>
+  <path d="M470 300 l18 18 l6 -16 l16 -6 z" fill="#24414a" stroke="#fff" stroke-width="2"/>
+</svg>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Illustration of a launch site under construction: a crane lowers the second solar wing onto a silver space telescope in its assembly stand, next to a starship with a saucer and warp nacelles, one nacelle still waiting on a cradle, a sign and traffic cones">
+  <defs>
+    <pattern id="hz" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="40" height="40" fill="#f6c026"/>
+      <rect width="20" height="40" fill="#2b2f3a"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="450" rx="24" fill="#1c2140"/>
+  <!-- stars and a planet -->
+  <g fill="#fbf8f3">
+    <circle cx="80" cy="60" r="2"/><circle cx="160" cy="120" r="1.5"/><circle cx="250" cy="40" r="2"/><circle cx="420" cy="90" r="1.5"/>
+    <circle cx="520" cy="40" r="2"/><circle cx="610" cy="130" r="1.5"/><circle cx="700" cy="60" r="2"/><circle cx="740" cy="180" r="1.5"/>
+    <circle cx="60" cy="200" r="1.5"/><circle cx="360" cy="170" r="1.5"/>
+  </g>
+  <circle cx="660" cy="110" r="44" fill="#5c6bc0"/>
+  <ellipse cx="660" cy="110" rx="74" ry="14" fill="none" stroke="#f6c026" stroke-width="4" stroke-dasharray="10 9"/>
+  <!-- ground -->
+  <rect x="0" y="340" width="800" height="110" fill="#5a606d"/>
+  <rect x="0" y="340" width="800" height="12" fill="url(#hz)"/>
+  <!-- crane -->
+  <rect x="150" y="50" width="16" height="290" fill="#f6c026"/>
+  <rect x="150" y="42" width="240" height="14" fill="#f6c026"/>
+  <rect x="130" y="36" width="34" height="26" fill="#2b2f3a"/>
+  <rect x="376.5" y="56" width="3" height="30" fill="#2b2f3a"/>
+  <rect x="362" y="84" width="32" height="5" fill="#2b2f3a"/>
+  <!-- telescope in its stand: aft shroud, foil tube, open door, solar wings -->
+  <rect x="240" y="326" width="120" height="14" rx="4" fill="#6b7180"/>
+  <rect x="258" y="300" width="84" height="28" fill="#5c6bc0"/>
+  <rect x="262" y="236" width="76" height="66" fill="#b9bdc7"/>
+  <rect x="300" y="252" width="22" height="36" fill="#1f2229"/>
+  <rect x="322" y="252" width="16" height="36" fill="#dfe2e8" transform="skewY(-12) translate(0 70)"/>
+  <rect x="266" y="100" width="68" height="138" fill="#dfe2e8"/>
+  <g stroke="#b9bdc7" stroke-width="3"><line x1="266" y1="146" x2="334" y2="146"/><line x1="266" y1="192" x2="334" y2="192"/></g>
+  <g stroke="#f6c026" stroke-width="3"><line x1="280" y1="110" x2="280" y2="228"/><line x1="320" y1="110" x2="320" y2="228"/></g>
+  <rect x="264" y="94" width="72" height="8" fill="#b9bdc7"/>
+  <ellipse cx="300" cy="70" rx="36" ry="10" fill="#dfe2e8" transform="rotate(-25 300 90)"/>
+  <rect x="262" y="203" width="96" height="4" fill="#d4d8e0"/>
+  <g stroke="#8fa2d8" stroke-width="1.5">
+    <rect x="222" y="150" width="40" height="120" fill="#2f4fa8"/><line x1="222" y1="170" x2="262" y2="170"/><line x1="222" y1="190" x2="262" y2="190"/><line x1="222" y1="210" x2="262" y2="210"/><line x1="222" y1="230" x2="262" y2="230"/><line x1="222" y1="250" x2="262" y2="250"/><line x1="242" y1="150" x2="242" y2="270"/>
+    <rect x="358" y="92" width="40" height="120" fill="#2f4fa8"/><line x1="358" y1="112" x2="398" y2="112"/><line x1="358" y1="132" x2="398" y2="132"/><line x1="358" y1="152" x2="398" y2="152"/><line x1="358" y1="172" x2="398" y2="172"/><line x1="358" y1="192" x2="398" y2="192"/><line x1="378" y1="92" x2="378" y2="212"/>
+  </g>
+  <g fill="#1c2140"><rect x="270" y="244" width="5" height="12"/><rect x="278" y="250" width="5" height="6"/><rect x="286" y="244" width="5" height="12"/></g>
+  <!-- starship: saucer, neck, engineering hull, nacelles (one waiting on a cradle) -->
+  <rect x="520" y="292" width="16" height="46" fill="#5b6170"/><rect x="618" y="270" width="16" height="68" fill="#5b6170"/>
+  <rect x="508" y="336" width="40" height="6" fill="#2b2f3a"/><rect x="606" y="336" width="40" height="6" fill="#2b2f3a"/>
+  <path d="M478 276 L600 272 L606 296 L486 300 Q470 290 478 276 Z" fill="#f2f0ea"/>
+  <circle cx="602" cy="286" r="10" fill="#ff9a3c"/>
+  <rect x="490" y="281" width="80" height="4" fill="#5c6bc0"/>
+  <path d="M570 278 L600 250 L620 250 L596 280 Z" fill="#f2f0ea"/>
+  <ellipse cx="636" cy="246" rx="82" ry="16" fill="#f2f0ea"/>
+  <ellipse cx="636" cy="240" rx="34" ry="7" fill="#d4d8e0"/>
+  <path d="M660 236 L700 240 L686 252 L654 248 Z" fill="#1f2229"/>
+  <g fill="#fff1b8"><rect x="570" y="250" width="6" height="3"/><rect x="590" y="253" width="6" height="3"/><rect x="680" y="253" width="6" height="3"/><rect x="700" y="250" width="6" height="3"/></g>
+  <path d="M500 280 L486 236 L498 236 L514 280 Z" fill="#f2f0ea"/>
+  <rect x="440" y="226" width="110" height="14" rx="6" fill="#f2f0ea"/>
+  <rect x="450" y="236" width="88" height="4" fill="#5ec8ff"/>
+  <ellipse cx="552" cy="233" rx="9" ry="7" fill="#ff4a3d"/>
+  <rect x="470" y="372" width="10" height="20" fill="#d63b3b"/><rect x="540" y="372" width="10" height="20" fill="#d63b3b"/>
+  <rect x="452" y="360" width="112" height="14" rx="6" fill="#f2f0ea"/>
+  <rect x="462" y="370" width="90" height="4" fill="#4a5468"/>
+  <ellipse cx="566" cy="367" rx="9" ry="7" fill="#7a3a36"/>
+  <!-- sign -->
+  <rect x="58" y="270" width="7" height="80" fill="#fbf8f3"/><rect x="128" y="270" width="7" height="80" fill="#fbf8f3"/>
+  <rect x="44" y="214" width="104" height="70" rx="6" fill="#f6c026" stroke="#2b2f3a" stroke-width="5"/>
+  <rect x="50" y="264" width="92" height="14" fill="url(#hz)"/>
+  <text x="96" y="240" text-anchor="middle" font-family="Fredoka, Trebuchet MS, sans-serif" font-weight="700" font-size="16" fill="#2b2f3a">UNDER</text>
+  <text x="96" y="257" text-anchor="middle" font-family="Fredoka, Trebuchet MS, sans-serif" font-weight="700" font-size="10.5" fill="#2b2f3a">CONSTRUCTION</text>
+  <circle cx="96" cy="204" r="9" fill="#ffb020"/>
+  <!-- cones and tape -->
+  <path d="M190 410 L204 360 L218 410 Z" fill="#ff7a2f"/><rect x="184" y="408" width="40" height="8" fill="#ff7a2f"/><rect x="198" y="380" width="12" height="7" fill="#fbf8f3"/>
+  <path d="M700 410 L714 360 L728 410 Z" fill="#ff7a2f"/><rect x="694" y="408" width="40" height="8" fill="#ff7a2f"/><rect x="708" y="380" width="12" height="7" fill="#fbf8f3"/>
+  <rect x="210" y="384" width="504" height="10" fill="url(#hz)"/>
+</svg>
